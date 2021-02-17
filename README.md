@@ -18,7 +18,7 @@ C++ library for the **XMC 3 channels RGB LED Lighting Shield with the XMC1302**.
 <table>
     <tr>
         <td align="center"><img src="https://github.com/Infineon/rgb-led-lighting-shield/wiki/img/ino-logo.jpg" width=100></td>
-        <td align="center"><img src="https://github.com/Infineon/rgb-led-lighting-shield/wiki/img/mtb-logo.png" width=100></td>
+        <td align="center"><img src="https://github.com/Infineon/rgb-led-lighting-shield/wiki/img/mtb-logo.png" width=150></td>
         <td align="center"><img src="https://github.com/Infineon/rgb-led-lighting-shield/wiki/img/cross-platform.png" width=100></td>
     </tr>
     <tr>
