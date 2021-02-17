@@ -1,14 +1,20 @@
 /** 
  * @file        rgb-led-lighting-shield-reg.hpp
- * @brief       RGB LED LIGHTING SHIELD Library KIT REGISTERS
+ * @brief       RGB LED LIGHTING SHIELD Library Registers
  * @date        November 2020
  * @copyright   Copyright (c) 2020 Infineon Technologies AG
+ * @ref         rgbCoreLib
  * 
  * SPDX-License-Identifier: MIT
  */
 
 #ifndef RGB_LED_LIGHTING_SHIELD_REG_HPP_
 #define RGB_LED_LIGHTING_SHIELD_REG_HPP_
+
+/**
+ * @addtogroup rgbRegs
+ * @{
+ */
 
 #define ADDRESS				0x795E              /**< Address of the XMC-I2C-Slave */
 #define FIRSTADDRESSBYTE 	0x79				/**< First address byte which has to be sent */
@@ -96,5 +102,9 @@ enum Colors_t{
     FUCHSIA,        /**< Color fuchsia */
     PURPLE          /**< Color purple */
 };
+
+/**
+ * @}
+ */
 
 #endif /** RGB_LED_LIGHTING_SHIELD_REG_HPP_ **/

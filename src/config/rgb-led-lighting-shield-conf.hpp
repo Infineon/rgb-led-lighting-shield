@@ -12,11 +12,20 @@
 
 #include "rgb-led-lighting-shield-opts.hpp"
 
+/**
+ * @addtogroup rgbFramework
+ * @{
+ */
+
 #ifndef RGB_LED_LIGHTING_SHIELD_FRAMEWORK
 #define RGB_LED_LIGHTING_SHIELD_FRAMEWORK      RGB_LED_LIGHTING_SHIELD_FRMWK_ARDUINO
 #endif
 
 #include "rgb-led-lighting-shield-conf-dfl.hpp"
+
+/**
+ * @}
+ */
 
 #endif /** RGB_LED_LIGHTING_SHIELD_CONF_HPP_ **/
 

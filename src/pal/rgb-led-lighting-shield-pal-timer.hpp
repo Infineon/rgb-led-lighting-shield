@@ -13,6 +13,11 @@
 #include <stdint.h>
 #include "rgb-led-lighting-shield-types.hpp"
 
+/**
+ * @addtogroup rgbPal
+ * @{
+ */
+
 namespace rgbShield
 {
 
@@ -29,5 +34,9 @@ class Timer
 };
 
 }
+
+/**
+ * @}
+ */
 
 #endif /** RGB_LED_LIGHTING_SHIELD_PAL_TIMER_HPP_ **/

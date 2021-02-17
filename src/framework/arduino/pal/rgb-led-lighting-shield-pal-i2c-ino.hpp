@@ -14,6 +14,11 @@
 
 #if (RGB_LED_LIGHTING_SHIELD_FRAMEWORK == RGB_LED_LIGHTING_SHIELD_FRMWK_ARDUINO)
 
+/**
+ * @addtogroup inoPal
+ * @{
+ */
+
 #include <Wire.h>
 #include "rgb-led-lighting-shield-pal-i2c.hpp"
 
@@ -36,6 +41,10 @@ class I2CPALIno : virtual public I2CPAL
     private:
         TwoWire *_wire;
 };
+
+/**
+ * @}
+ */
 
 #endif /** RGB_LED_LIGHTING_SHIELD_FRMWK_ARDUINO **/
 #endif /** RGB_LED_LIGHTING_SHIELD_PAL_I2C_INO_HPP_ **/

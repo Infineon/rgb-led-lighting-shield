@@ -1,0 +1,7 @@
+<map id="Core Library" name="Core Library">
+<area shape="rect" id="node1" href="$group__rgb_pal.html" title=" " alt="" coords="145,5,325,45"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,109,97,134"/>
+<area shape="rect" id="node3" href="$group__rgb_regs.html" title=" " alt="" coords="151,69,319,109"/>
+<area shape="rect" id="node4" href="$group__rgb_api.html" title=" " alt="" coords="151,133,319,173"/>
+<area shape="rect" id="node5" href="$group__rgb_types.html" title=" " alt="" coords="151,197,319,237"/>
+</map>

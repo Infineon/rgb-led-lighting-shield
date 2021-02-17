@@ -1,8 +1,9 @@
 /** 
  * @file        rgb-led-lighting-shield.cpp
- * @brief       RGB LED LIGHTING SHIELD Library KIT
+ * @brief       RGB LED LIGHTING SHIELD Library 
  * @date        November 2020
  * @copyright   Copyright (c) 2020 Infineon Technologies AG
+ * @ref         rgbCoreLib
  * 
  * SPDX-License-Identifier: MIT
  */

@@ -1,8 +1,9 @@
 /** 
  * @file        rgb-led-lighting-shield.hpp
- * @brief       RGB LED LIGHTING SHIELD Library KIT
+ * @brief       RGB LED LIGHTING SHIELD Library 
  * @date        November 2020
  * @copyright   Copyright (c) 2020 Infineon Technologies AG
+ * @ref         rgbCoreLib
  * 
  * SPDX-License-Identifier: MIT
  */
@@ -16,6 +17,11 @@
 #include "rgb-led-lighting-shield-reg.hpp"
 
 using namespace rgbShield;
+
+/**
+ * @addtogroup rgbApi
+ * @{
+ */
 
 /**
  * @class RGBShield
@@ -60,5 +66,9 @@ class RGBShield
 		uint16_t _walk;             /**< Variable to store the walktime */
 		uint16_t _brightness;       /**< Variable to store the _brightness */
 };
+
+/**
+ * @}
+ */
 
 #endif /** RGB_LED_LIGHTING_SHIELD_HPP_ **/

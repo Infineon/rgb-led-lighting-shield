@@ -22,6 +22,11 @@
 #include "cy_retarget_io.h"
 #include "string.h"
 
+/**
+ * @addtogroup mtbPal
+ * @{
+ */
+
 using namespace ledDali;
 
 class I2CPALPSoC : virtual public I2CPAL
@@ -44,6 +49,10 @@ class I2CPALPSoC : virtual public I2CPAL
         cyhal_i2c_t 		_I2C;
         cyhal_i2c_cfg_t 	_I2C_cfg;
 };
+
+/**
+ * @}
+ */
 
 #endif /** RGB_LED_LIGHTING_SHIELD_FRMWK_PSOC6 **/
 #endif /** RGB_LED_LIGHTING_SHIELD_PAL_I2C_PSOC_HPP_ **/

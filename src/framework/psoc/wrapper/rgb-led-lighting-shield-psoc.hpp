@@ -17,12 +17,21 @@
 #include "rgb-led-lighting-shield.hpp"
 #include "rgb-led-lighting-shield-pal-i2c-psoc.hpp"
 
+/**
+ * @addtogroup mtbApi
+ * @{
+ */
+
 class RGBShieldPSoC : virtual public RGBShield
 {
 	public:
 		RGBShieldPSoC();
 		~RGBShieldPSoC();
 };
+
+/**
+ * @}
+ */
 
 #endif /** RGB_LED_LIGHTING_SHIELD_FRAMEWORK == RGB_LED_LIGHTING_SHIELD_FRMWK_PSOC6 */
 #endif /** RGB_LED_LIGHTING_SHIELD_PSOC_HPP_ **/

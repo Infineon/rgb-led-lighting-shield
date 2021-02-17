@@ -1,0 +1,9 @@
+<map id="rgb&#45;led&#45;lighting&#45;shield&#45;pal&#45;timer.hpp" name="rgb&#45;led&#45;lighting&#45;shield&#45;pal&#45;timer.hpp">
+<area shape="rect" id="node1" title="RGB LED LIGHTING SHIELD TIMER Platform Abstraction Layer." alt="" coords="199,5,343,47"/>
+<area shape="rect" id="node2" href="$rgb-led-lighting-shield_8hpp.html" title="RGB LED LIGHTING SHIELD Library." alt="" coords="187,95,356,121"/>
+<area shape="rect" id="node3" href="$rgb-led-lighting-shield_8cpp.html" title="RGB LED LIGHTING SHIELD Library." alt="" coords="5,177,175,203"/>
+<area shape="rect" id="node4" href="$rgb-led-lighting-shield-ino_8hpp.html" title="RGB LED LIGHTING SHIELD Library KIT Arduino." alt="" coords="199,169,343,211"/>
+<area shape="rect" id="node6" href="$rgb-led-lighting-shield-psoc_8hpp.html" title="RGB LED LIGHTING SHIELD Library KIT PSoC." alt="" coords="367,169,511,211"/>
+<area shape="rect" id="node5" href="$rgb-led-lighting-shield-ino_8cpp.html" title="RGB LED LIGHTING SHIELD Library KIT Arduino." alt="" coords="199,259,343,300"/>
+<area shape="rect" id="node7" href="$rgb-led-lighting-shield-psoc_8cpp.html" title="RGB LED LIGHTING SHIELD Library KIT PSoC." alt="" coords="367,259,511,300"/>
+</map>

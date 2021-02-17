@@ -3,12 +3,18 @@
  * @brief       RGB LED LIGHTING SHIELD Library Types
  * @date        November 2020
  * @copyright   Copyright (c) 2020 Infineon Technologies AG
+ * @ref         rgbCoreLib
  * 
  * SPDX-License-Identifier: MIT
  */
 
 #ifndef RGB_LED_LIGHTING_SHIELD_TYPES_HPP_
 #define RGB_LED_LIGHTING_SHIELD_TYPES_HPP_
+
+/**
+ * @addtogroup rgbTypes
+ * @{
+ */
 
 namespace rgbShield
 {
@@ -44,5 +50,9 @@ namespace rgbShield
         ENAB           =  0x02              /**< Enabled */         
     };
 }
+
+/**
+ * @}
+ */
 
 #endif /** RGB_LED_LIGHTING_SHIELD_TYPES_HPP_ **/

@@ -13,6 +13,11 @@
 #include "rgb-led-lighting-shield-types.hpp"
 #include <stdint.h>
 
+/**
+ * @addtogroup rgbPal
+ * @{
+ */
+
 namespace rgbShield
 {
 
@@ -31,4 +36,9 @@ class I2CPAL
 };
 
 }
+
+/**
+ * @}
+ */
+
 #endif /** RGB_LED_LIGHTING_SHIELD_PAL_I2C_HPP_ **/

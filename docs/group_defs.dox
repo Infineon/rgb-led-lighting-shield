@@ -1,0 +1,34 @@
+/**
+ * @defgroup rgbCoreLib         Core Library
+ * @{
+ */
+
+/** @defgroup rgbApi        RGB-LED-Lighting-Shield base API */
+/** @defgroup rgbTypes      RGB-LED-Lighting-Shield global definitons */
+/** @defgroup rgbRegs       RGB-LED-Lighting-Shield registers */
+/** @defgroup rgbPal        RGB-LED-Lighting-Shield Platform Abstraction Layer */
+
+/** @} */
+
+/**
+ * @defgroup rgbFramework       SW Frameworks
+ * @{
+ */
+    /**
+     * @defgroup rgbIno        Arduino
+     * @{
+     */
+        /** @defgroup inoApi   RGB-LED-Lighting-Shield Arduino API */
+        /** @defgroup inoPal   RGB-LED-Lighting-Shield Arduino PAL */
+    /** @} */
+
+    /**
+     * @defgroup rgbMtb         ModusToolBox
+     * @{
+     */
+        /** @defgroup mtbApi   RGB-LED-Lighting-Shield MTB API */
+        /** @defgroup mtbPal   RGB-LED-Lighting-Shield MTB PAL */
+    /** @} */
+
+/** @} */
+
