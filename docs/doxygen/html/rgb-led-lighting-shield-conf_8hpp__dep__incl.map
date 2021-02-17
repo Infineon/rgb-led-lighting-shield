@@ -1,0 +1,11 @@
+<map id="rgb&#45;led&#45;lighting&#45;shield&#45;conf.hpp" name="rgb&#45;led&#45;lighting&#45;shield&#45;conf.hpp">
+<area shape="rect" id="node1" title="RGB LED LIGHTING SHIELD Library Configuration." alt="" coords="301,5,445,47"/>
+<area shape="rect" id="node2" href="$rgb-led-lighting-shield-pal-i2c-ino_8hpp.html" title="RGB LED LIGHTING SHIELD I2C Platform Abstraction Layer Arduino." alt="" coords="137,95,281,136"/>
+<area shape="rect" id="node4" href="$rgb-led-lighting-shield-ino_8hpp.html" title="RGB LED LIGHTING SHIELD Library KIT Arduino." alt="" coords="173,184,317,225"/>
+<area shape="rect" id="node6" href="$rgb-led-lighting-shield-pal-i2c-psoc_8hpp.html" title="RGB LED LIGHTING SHIELD I2C Platform Abstraction Layer PSoC." alt="" coords="356,95,500,136"/>
+<area shape="rect" id="node8" href="$rgb-led-lighting-shield-psoc_8hpp.html" title="RGB LED LIGHTING SHIELD Library KIT PSoC." alt="" coords="509,184,653,225"/>
+<area shape="rect" id="node3" href="$rgb-led-lighting-shield-pal-i2c-ino_8cpp.html" title="RGB LED LIGHTING SHIELD I2C Platform Abstraction Layer Arduino." alt="" coords="5,184,149,225"/>
+<area shape="rect" id="node5" href="$rgb-led-lighting-shield-ino_8cpp.html" title="RGB LED LIGHTING SHIELD Library KIT Arduino." alt="" coords="173,273,317,315"/>
+<area shape="rect" id="node7" href="$rgb-led-lighting-shield-pal-i2c-psoc_8cpp.html" title="RGB LED LIGHTING SHIELD I2C Platform Abstraction Layer PSoC." alt="" coords="341,184,485,225"/>
+<area shape="rect" id="node9" href="$rgb-led-lighting-shield-psoc_8cpp.html" title="RGB LED LIGHTING SHIELD Library KIT PSoC." alt="" coords="509,273,653,315"/>
+</map>

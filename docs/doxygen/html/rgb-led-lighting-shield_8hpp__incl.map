@@ -1,0 +1,8 @@
+<map id="rgb&#45;led&#45;lighting&#45;shield.hpp" name="rgb&#45;led&#45;lighting&#45;shield.hpp">
+<area shape="rect" id="node1" title="RGB LED LIGHTING SHIELD Library." alt="" coords="96,5,265,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="64,177,129,203"/>
+<area shape="rect" id="node3" href="$rgb-led-lighting-shield-pal-timer_8hpp.html" title="RGB LED LIGHTING SHIELD TIMER Platform Abstraction Layer." alt="" coords="25,80,169,121"/>
+<area shape="rect" id="node5" href="$rgb-led-lighting-shield-pal-i2c_8hpp.html" title="RGB LED LIGHTING SHIELD I2C Platform Abstraction Layer." alt="" coords="193,80,337,121"/>
+<area shape="rect" id="node6" href="$rgb-led-lighting-shield-reg_8hpp.html" title="RGB LED LIGHTING SHIELD Library Registers." alt="" coords="361,80,505,121"/>
+<area shape="rect" id="node4" href="$rgb-led-lighting-shield-types_8hpp.html" title="RGB LED LIGHTING SHIELD Library Types." alt="" coords="173,169,317,211"/>
+</map>
