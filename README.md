@@ -18,18 +18,18 @@ C++ library for the **XMC 3 channels RGB LED Lighting Shield with the XMC1302**.
 <table>
     <tr>
         <td align="center"><img src="https://github.com/Infineon/rgb-led-lighting-shield/wiki/img/ino-logo.jpg" width=100></td>
-        <td align="center"><img src="https://github.com/Infineon/rgb-led-lighting-shield/wiki/img/mtb-logo.png" width=150></td>
-        <td align="center"><img src="https://github.com/Infineon/rgb-led-lighting-shield/wiki/img/cross-platform.png" width=100></td>
+        <!-- <td align="center"><img src="https://github.com/Infineon/rgb-led-lighting-shield/wiki/img/mtb-logo.png" width=150></td> -->
+        <!-- <td align="center"><img src="https://github.com/Infineon/rgb-led-lighting-shield/wiki/img/cross-platform.png" width=100></td> -->
     </tr>
     <tr>
-        <td style"text-align: center"><a href="">Arduino API</a></td>
-        <td style"text-align: center"><a href="">PSoC API</a></td>
-        <td style"text-align: center"><a href="">RGB-DALI-API</a></td>
+        <td style"text-align: center"><a href="https://github.com/Infineon/rgb-led-lighting-shield/wiki/Arduino-API">Arduino API</a></td>
+        <!-- <td style"text-align: center"><a href="">PSoC API</a></td> -->
+        <!-- <td style"text-align: center"><a href="">RGB-DALI-API</a></td> -->
     </tr>
     <tr>
-        <td style"text-align: center"><a href="">Ino-Getting-Started</a></td>
-        <td style"text-align: center"><a href="">PSoC-Getting-Started</a></td>
-        <td style"text-align: center"><a href="">Porting Guide</a></td>
+        <td style"text-align: center"><a href="https://github.com/Infineon/rgb-led-lighting-shield/wiki/Ino-Getting-Started">Ino-Getting-Started</a></td>
+        <!-- <td style"text-align: center"><a href="">PSoC-Getting-Started</a></td> -->
+        <!-- <td style"text-align: center"><a href="">Porting Guide</a></td> -->
     </tr>
 </table>
 
