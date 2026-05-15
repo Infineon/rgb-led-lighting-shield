@@ -1,0 +1,5 @@
+<map id="RGBShield::setCurrentRGB" name="RGBShield::setCurrentRGB">
+<area shape="rect" id="Node000001" title="Set peak&#45;current for the three channels." alt="" coords="5,13,200,38"/>
+<area shape="rect" id="Node000002" href="$d4/d12/classrgbShield_1_1I2CPAL.html#a94ab545d185b5877eca8f1e55bff87d9" title=" " alt="" coords="248,5,391,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,23,234,23,234,28,200,28"/>
+</map>

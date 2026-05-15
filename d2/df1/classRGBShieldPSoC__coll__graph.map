@@ -1,0 +1,7 @@
+<map id="RGBShieldPSoC" name="RGBShieldPSoC">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,168,134,193"/>
+<area shape="rect" id="Node000002" href="$dd/d73/classRGBShield.html" title="RGB LED Lighting Shield Class." alt="" coords="27,93,118,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,133,75,168,70,168,70,133"/>
+<area shape="rect" id="Node000003" href="$d4/d12/classrgbShield_1_1I2CPAL.html" title=" " alt="" coords="5,5,140,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,45,75,93,70,93,70,45"/>
+</map>
